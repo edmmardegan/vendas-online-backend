@@ -1,0 +1,52 @@
+                                                                                    
+Links de download:
+node - https://nodejs.org/en/download/
+visual studio code - https://code.visualstudio.com/download
+
+Link do Github: https://github.com/juliossena/vendas-...
+Link do commit: https://github.com/juliossena/vendas-...
+
+Comandos para instalação:
+npm -i -g @nestjs/cli
+nest new nome-do-projeto
+npm i bcrypt
+npm -D @types/bcrypt
+npm install @nestjs/cache-manager cache-manager
+npm install class-validator class-transformer
+npm install class-validator@0.14 class-transformer@0.5
+npm i --save @nestjs/passport passport passport-local //pode nao ser necessário
+npm i --save-dev @types/passport-local
+npm install --save @nestjs/jwt ou npm install --save @nestjs/jwt passport-jwt
+npm install --dev @types/passport-jwt
+
+// criar todos assim
+nest g controler state
+nest g module state  
+nest g service state
+nest g controller address
+nest g service address
+nest g module auth
+nest g controller auth
+nest g service auth
+
+npm i --save @nestjs/config
+npm i --save typeorm pg @nestjs/typeorm
+
+
+npx typeorm migration:create ./src/migration/create_table_user // criar as tabelas
+
+
+
+
+
+
+
+
+
+
+Curso completo React Native + Nest (com certificado): 
+https://www.udemy.com/course/react-na...
+
+Curso completo React.js + Nest (com certificado):
+https://www.udemy.com/course/nestjs-e...
+Transcrição                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
